@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'zZctmHbR3nWrlcxExIOQlqb6NI72eHHzoMD5gfMF87PUdCSo', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'LUCwg9uYncmYufIH5BFPyHjEAQCWTzOHFtA6TZV13TgRy9qQ', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [1564378624], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Green House Monitor', // Replaces Xively logo in the header
 		dataDuration	= '6hours', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
